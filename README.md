@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tannercorbin
-- 👀 I’m interested in the data engineering space.
-- 🌱 I’m currently learning dbt.
+- 👀 I’m interested in analytics and data engineering.
+- 🌱 I’m currently honing my dbt skills.
 - 📫 Connect with me on LinkedIn - https://www.linkedin.com/in/tanner-corbin-24704018b/
 
 <!---
